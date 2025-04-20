@@ -1,0 +1,50 @@
+correlation_matrix = df.corr()
+# Plot heatmap
+plt.figure(figsize=(14, 12))
+sns.heatmap(correlation_matrix, annot=True, fmt=".2f", cmap='coolwarm', square=True)
+plt.title('Correlation Heatmap of Cancer Biomarkers')
+plt.tight_layout()
+plt.savefig("correlation_heatmap.png")
+plt.show()python heatmap.py
+python heatmap.py
+pip install pandas matplotlib seaborn
+python heatmap.py
+pip install scipy seaborn
+pip install pandas seaborn scipy matplotlib
+(env) C:\.\cluster_project>
+python cluster_heatmap.py
+cd C:\Users\HP\Python Programming\Cancer Biomarker Analysis\data\heatmap_project\cluster_project
+(env) C:\.\cluster_project>
+python cluster_heatmap.py
+(env) C:\Users\HP\Python Programming\Cancer Biomarker Analysis\data\heatmap_project\cluster_project>
+python cluster_heatmap.py
+C:\Users\HP\Python Programming\Cancer Biomarker Analysis\data\Cluster Project
+cd C:\Users\HP\Python Programming\Cancer Biomarker Analysis\data\Cluster Project
+python cluster_heatmap.py
+C:\Users\HP\Python Programming\Cancer Biomarker Analysis\data
+cd C:\Users\HP\Python Programming\Cancer Biomarker Analysis\data
+python heatmap.py
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+# Read your data
+df = pd.read_csv("data.csv")
+# Set the figure size to make it bigger and less crowded
+plt.figure(figsize=(16, 12))
+# Create cluster heatmap
+sns.clustermap(df, cmap="coolwarm", linewidths=0.5, figsize=(16, 12))
+# Show the heatmap
+plt.show()
+python heatmap.py
+pip install plotly
+python heatmap.py
+python code3.py
+pip install plotly pandas
+python cluster_heatmap.py
+cd C:\Users\HP\Python Programming\Cancer Biomarker Analysis\data\Cluster Project
+python cluster_heatmap.py
+python cluster_heatmap.py > C:\path\to\your\output_file.txt
+command >> filename.txt
+python cluster_heatmap.py > output.txt
+python cluster_heatmap.py >> output.txt
+doskey /history > command_history.txt
