@@ -76,3 +76,12 @@ Edit
 cd src
 python data_preprocessing.py
 python model_training.py
+
+
+#🙋‍♀️ Author
+**Sadia Riaz**
+Medical Lab Assistant | Cancer Research Enthusiast | Aspiring PhD Scholar
+📍 Pakistan
+📧 Connect via GitHub: MisBiologist
+or
+Email: sadiariaz678@gmail.com
