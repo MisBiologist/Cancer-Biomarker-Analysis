@@ -1,4 +1,4 @@
-# 🧬 Cancer Biomarker Analysis
+# 🧬 Predictive Cancer Biomarker Analysis
 
 This project analyzes breast cancer biomarkers using the Breast Cancer Wisconsin dataset from Kaggle. It applies data preprocessing and basic machine learning techniques to classify tumors as benign or malignant.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
