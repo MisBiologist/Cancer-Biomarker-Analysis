@@ -7,7 +7,7 @@ This project analyzes breast cancer biomarkers using the Breast Cancer Wisconsin
 
 ## 📊 Dataset
 
-- **Source**: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+- **Source**: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/ predictive-breast-cancer-wisconsin-data)
 - **Features**: 30 numeric features computed from digitized images of fine needle aspirate (FNA) of breast mass.
 - **Target**: Diagnosis (Malignant = M, Benign = B)
 
@@ -55,7 +55,7 @@ Predictive Cancer Biomarker Analysis/ │ ├── src/ │ ├── data_prep
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MisBiologist/Cancer-Biomarker-Analysis.git
+   git clone https://github.com/MisBiologist/ Predictive-Cancer-Biomarker-Analysis.git
 Create and activate a virtual environment:
 
 bash
