@@ -25,14 +25,14 @@ This project analyzes breast cancer biomarkers using the Breast Cancer Wisconsin
 ---
 
 ## 📁 Project Structure
-Cancer Biomarker Analysis/ │ ├── src/ │ ├── data_preprocessing.py │ ├── model_training.py │ ├── utils.py │ ├── data/ │ └── breast-cancer-wisconsin-data.csv │ ├── README.md └── LICENSE
+Predictive Cancer Biomarker Analysis/ │ ├── src/ │ ├── data_preprocessing.py │ ├── model_training.py │ ├── utils.py │ ├── data/ │ └── breast-cancer-wisconsin-data.csv │ ├── README.md └── LICENSE
 ---
 
 ## 🔍 Workflow
 
 1. **Data Cleaning & Preprocessing**
    - Handling missing values
-   - Label encoding for diagnosis column
+   - Label encoding for the diagnosis column
    - Feature scaling
 
 2. **Model Training**
